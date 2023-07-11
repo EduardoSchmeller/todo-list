@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "postman": "^0.2.0",
+    "snap": "^1.1.0"
+  }
+}
